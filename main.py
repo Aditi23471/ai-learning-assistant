@@ -24,11 +24,14 @@ elif topic == "2":
     print("Question: What is Machine Learning?")
     answer = input("Your answer: ")
 
+    score = 0
     if answer.strip().lower() == "machine learning":
         print("Excellent! You got it right!")
+        score = score + 1
     else:
         print("Good try! The correct answer is Machine Learning.")
-
+        print("\nYOUR FINAL SCORE")
+        print("Score:", score, "/ 1"
 elif topic == "3":
     print("\nMathematics helps us understand numbers,")
     print("patterns and logical relationships.")
