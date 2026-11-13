@@ -18,7 +18,14 @@ if topic == "1":
 elif topic == "2":
     print("\nArtificial Intelligence allows computers")
     print("to perform tasks that usually require human intelligence.")
+        print("\nMINI QUIZ")
+    print("What is Machine Learning?")
+    answer = input("Your answer: ")
 
+    if answer.strip().lower() == "machine learning":
+        print("Excellent! Correct answer!")
+    else:
+        print("Good try! The answer is Machine Learning.")
     print("\nMINI QUIZ")
     print("Question: What is Machine Learning?")
     answer = input("Your answer: ")
