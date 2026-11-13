@@ -8,11 +8,14 @@ AI Learning Assistant is an interactive educational program built using Python. 
 
 Features
 
-* Interactive learning menu
-* Python, Artificial Intelligence and Mathematics topics
-* Topic explanations
-* Mini quiz
-* Automatic answer checking
+## Features
+- Interactive learning menu
+- Python, Artificial Intelligence and Mathematics topics
+- Topic explanations
+- 5-question AI quiz
+- Automatic answer checking
+- Score tracking out of 5
+- Percentage calculation
 
 Technologies
 
