@@ -20,7 +20,7 @@ elif topic == "2":
     print("\nArtificial Intelligence allows computers")
     print("to perform tasks that usually require human intelligence.")
 
-        print("\nMINI QUIZ - 5 QUESTIONS")
+    print("\nMINI QUIZ - 5 QUESTIONS")
     score = 0
 
     answer = input("\n1. What does AI stand for? ")
@@ -71,6 +71,8 @@ elif topic == "2":
         print("Good try! The correct answer is Machine Learning.")
         print("\nYOUR FINAL SCORE")
         print("Score:", score, "/ 5")
+        percentage = (score / 5) * 100
+print("Your percentage:", percentage, "%")
 elif topic == "3":
     print("\nMathematics helps us understand numbers,")
     print("patterns and logical relationships.")
