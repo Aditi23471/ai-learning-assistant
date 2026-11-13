@@ -28,16 +28,14 @@ Motivation
 
 I am interested in Computer Science and Artificial Intelligence. I started this project to improve my programming skills and explore how technology can make education more interactive and accessible.
 
-Current Status
+## Current Status
+Working beginner-level Python project with an interactive menu, five-question quiz, automatic scoring and percentage calculation.
 
-First working prototype. More features are under development.
-
-Future Goals
-
-* Add more quiz questions
-* Introduce score tracking
-* Save learning progress
-* Explore genuine AI integration
+## Future Goals
+- Add more quiz topics
+- Save learning progress
+- Improve answer checking
+- Explore genuine AI integration
 
 Developer
 
