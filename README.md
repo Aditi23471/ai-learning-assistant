@@ -39,3 +39,4 @@ Future Goals
 Developer
 
 Student | Aspiring Computer Science and AI learner
+![AI Learning Assistant Demo](project-demo.png)
