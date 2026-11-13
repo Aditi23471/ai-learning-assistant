@@ -31,7 +31,7 @@ elif topic == "2":
     else:
         print("Good try! The correct answer is Machine Learning.")
         print("\nYOUR FINAL SCORE")
-        print("Score:", score, "/ 1"
+        print("Score:", score, "/ 1")
 elif topic == "3":
     print("\nMathematics helps us understand numbers,")
     print("patterns and logical relationships.")
